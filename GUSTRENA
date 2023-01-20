@@ -1,0 +1,115 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="TV ABERTA",GLOBO
+https://rr2---sn-pmcg-bg0e.googlevideo.com/videoplayback?expire=1674169539&ei=Q1zJY4WEHMOP4dUP_tKrmAQ&ip=45.168.226.250&id=cf2ae42dd6b737a0&itag=22&source=youtube&requiressl=yes&mh=uv&mm=31&mn=sn-pmcg-bg0e&ms=au&mv=m&mvi=2&pl=24&susc=gvp&acao=yes&ctier=L&mime=video/mp4&vprv=1&dur=15.069&lmt=1672956176228537&mt=1674140259&txp=4532434&sparams=expire,ei,ip,id,itag,source,requiressl,susc,acao,ctier,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIhAL4IV7EiOvPrMRmFLhdSTTNcRxy17xR4JKG_T-xRG-k2AiB10s4ROaN1BV_GgBAT7lsYw4z8MzX7LSG70qd0FMJKIg==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgaPB6NoUS5i4C90HApAQt7m4AiVPyEcrMDq859eusrQACIQCuVgs-v3iRYCnh6k3u7HfkaAJm6nOZe5tsgmADT4-pow==&cpn=8QuciIxVm5PPIgQc
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV ABERTA",RECORD TV
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-2.png" group-title="TV ABERTA",BAND TV
+LINK
+ 
+#EXTINF:-1 tvg-logo="https://logospng.org/download/sbt/logo-sbt-256.png" group-title="TV ABERTA",SBT PR
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist_w817347897.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/redetv-logo/redetv-logo-1/" group-title="TV ABERTA",REDE TV
+https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1802439155.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="TV ABERTA",BBB 23
+https://fgfrjun7gtmz.cdnexpress42.net:8443/hls/18tk7zi.m3u8?s=ncpQJVwBE1dStsioUU20Dw&e=1674207147
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="TV ABERTA",BAND NEWS
+https://live.embedflix.net/p2p/bandnews/chunks.m3u8?nimblesessionid=3113621&wmsAuthSign=c2VydmVyX3RpbWU9MS8xOS8yMDIzIDc6Mzc6NDcgUE0maGFzaF92YWx1ZT0vU2xSOGJVTUxpY1Baa0x4ZEhTeU5nPT0mdmFsaWRtaW51dGVzPTkw
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo-5.png" group-title="TV ABERTA",GLOBO NEWS
+LINK
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="TV ABERTA",RECORD NEWS
+https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1802439155.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-9.png" group-title="FILMES",TELECINE PREMIUM
+https://live.embedflix.net/p2p/tlcpremium/chunks.m3u8?nimblesessionid=3013091&wmsAuthSign=c2VydmVyX3RpbWU9MS8xOS8yMDIzIDEyOjU1OjMwIEFNJmhhc2hfdmFsdWU9Q0Vya0F3M0dyMGZ0RG5sbzI0ejdZdz09JnZhbGlkbWludXRlcz05MA==
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-9.png" group-title="FILMES",TELECINE ACTION
+LINK
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-9.png" group-title="FILMES",TELECINE TOUCH
+LINK
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-9.png" group-title="FILMES",TELECINE FUN
+LINK
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-9.png" group-title="FILMES",TELECINE PIPOCA
+LINK
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-9.png" group-title="FILMES",TELECINE CULT
+LINK
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="FILMES",HBO 
+https://live.embedflix.net/p2p/hbo/chunks.m3u8?nimblesessionid=3116302&wmsAuthSign=c2VydmVyX3RpbWU9MS8xOS8yMDIzIDg6MjI6MzUgUE0maGFzaF92YWx1ZT1pY3FpZWNwN0szek1KYXpWMVE3MWtRPT0mdmFsaWRtaW51dGVzPTkw
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="FILMES",HBO 2
+LINK
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="FILMES",HBO POP
+LINK
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="FILMES",HBO XTREME
+LINK
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="FILMES",HBO PLUS
+LINK
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="FILMES",HBO FAMILY
+https://live.embedflix.net/p2p/hbofamily/chunks.m3u8?nimblesessionid=3116083&wmsAuthSign=c2VydmVyX3RpbWU9MS8xOS8yMDIzIDg6MTk6MDQgUE0maGFzaF92YWx1ZT1uUG5RMDBjV3hra0hiSmFjNFVyalZRPT0mdmFsaWRtaW51dGVzPTkw
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png group-title="FILMES",HBO SIGNATURE
+LINK
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="FILMES",HBO MUNDI
+LINK
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="ESPORTES",TNT SPORTS 1
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="ESPORTES",TNT SPORTS 2
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="ESPORTES",TNT SPORTS 3
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="ESPORTES",TNT SPORTS 4
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="ESPORTES",ESPN 1
+https://no2.webtv1.lol/ddy1/premium81/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="ESPORTES",ESPN 2
+https://br.embedflix.net/p2p/spn2/chunks.m3u8?nimblesessionid=175304&wmsAuthSign=c2VydmVyX3RpbWU9MS8xOS8yMDIzIDg6MjA6NTMgUE0maGFzaF92YWx1ZT1UZ01lTGU0bVo1QmNCNUlPSWUwZnFRPT0mdmFsaWRtaW51dGVzPTkw
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="ESPORTES",ESPN 3
+https://no2.webtv1.lol/ddy1/premium81/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="ESPORTES",ESPN 4
+https://br.embedflix.net/p2p/spn4/chunks.m3u8?nimblesessionid=175360&wmsAuthSign=c2VydmVyX3RpbWU9MS8xOS8yMDIzIDg6MjE6MzcgUE0maGFzaF92YWx1ZT1obnhSYVNRbTN6dHFlblJ0VlRObGF3PT0mdmFsaWRtaW51dGVzPTkw
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="ESPORTES",ESPN EXTRA
+https://no2.webtv1.lol/ddy1/premium81/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1280px-A%26E-Network-Logo.svg.png" group-title="FILMES",A&E
+https://embed.googlez01.ml/playlist/03a362f8432f9c98e7e0849d20281e66/b6127eb29a5010ecb08f5356eac9ffb5/master.m3u8?token=SnhxT0I5L0MrUC8wZ0lNYjVFdko3UT09Ojpx%2FwlI58YHGTnQA%2FeFCxdy
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo-2.png" group-title="DESENHOS",CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title="DESENHOS",GLOOB
+https://live.embedflix.net/p2p/gloob/chunks.m3u8?nimblesessionid=3115815&wmsAuthSign=c2VydmVyX3RpbWU9MS8xOS8yMDIzIDg6MTI6MzUgUE0maGFzaF92YWx1ZT1CT1lHTm5TTHNBUENXa2c3dnpGQWZnPT0mdmFsaWRtaW51dGVzPTkw
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png" group-title="DESENHOS",DISCOVERY KIDS
+https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png" group-title="DESENHOS",MASTER CHEF BRASIL
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/6077045b6031bd00078de127/3063648/playlist.m3u8?terminate=false&sid=eacf41bd-98db-11ed-a7f4-92cbfe5deadb&deviceDNT=0&deviceLat=-7.2782&deviceLon=-35.9763&deviceModel=web&deviceVersion=109.0.0&includeExtendedEvents=true&serverSideAds=true&appName=web&deviceId=6ac9bb2d-cf59-4413-90d2-1885cc3e68c0&appVersion=6.8.0-ca6f26788fd1cf3631592f30959d18d675705c98&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjYyOThhZjAwLTYzZGEtNGI1OC1iZjk0LTVhZWRiZTNhOWNkMSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJlYWNmNDFiZC05OGRiLTExZWQtYTdmNC05MmNiZmU1ZGVhZGIiLCJjbGllbnRJUCI6IjE4Ny42Mi4xNDUuMjMyIiwiY2l0eSI6IkNhbXBpbmEgR3JhbmRlIiwicG9zdGFsQ29kZSI6IjU4MTAwIiwiY291bnRyeSI6IkJSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJCUiIsImRldmljZUxhdCI6LTcuMjc4MiwiZGV2aWNlTG9uIjotMzUuOTc2MywicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTA5LjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNi44LjAtY2E2ZjI2Nzg4ZmQxY2YzNjMxNTkyZjMwOTU5ZDE4ZDY3NTcwNWM5OCIsImNsaWVudElEIjoiNmFjOWJiMmQtY2Y1OS00NDEzLTkwZDItMTg4NWNjM2U2OGMwIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvRm9ydGFsZXphIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOk5tRmpPV0ppTW1RdFkyWTFPUzAwTkRFekxUa3daREl0TVRnNE5XTmpNMlUyT0dNdyIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2NzQzMTY5ODIsImlhdCI6MTY3NDIzMDU4MiwianRpIjoiODhiZDJhYzUtOTcwMi00Zjk1LWIxYmQtYzYzZjk0NWM2YzJmIn0.NgrsLnhkAoiq3t2eaD6MT1D1zbMgFHYB2Ez3ARAbMtQ
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png" group-title="DESENHOS",DE FERIAS COM EX BRASIL
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/61a528267e1b8b0007357920/3063648/playlist.m3u8?terminate=false&sid=eb6f6f0d-98db-11ed-9e9e-e64a47952889&deviceDNT=0&deviceLat=-7.2782&deviceLon=-35.9763&deviceModel=web&deviceVersion=109.0.0&includeExtendedEvents=true&serverSideAds=true&appName=web&deviceId=6ac9bb2d-cf59-4413-90d2-1885cc3e68c0&appVersion=6.8.0-ca6f26788fd1cf3631592f30959d18d675705c98&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjYyOThhZjAwLTYzZGEtNGI1OC1iZjk0LTVhZWRiZTNhOWNkMSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJlYjZmNmYwZC05OGRiLTExZWQtOWU5ZS1lNjRhNDc5NTI4ODkiLCJjbGllbnRJUCI6IjE4Ny42Mi4xNDUuMjMyIiwiY2l0eSI6IkNhbXBpbmEgR3JhbmRlIiwicG9zdGFsQ29kZSI6IjU4MTAwIiwiY291bnRyeSI6IkJSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJCUiIsImRldmljZUxhdCI6LTcuMjc4MiwiZGV2aWNlTG9uIjotMzUuOTc2MywicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTA5LjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNi44LjAtY2E2ZjI2Nzg4ZmQxY2YzNjMxNTkyZjMwOTU5ZDE4ZDY3NTcwNWM5OCIsImNsaWVudElEIjoiNmFjOWJiMmQtY2Y1OS00NDEzLTkwZDItMTg4NWNjM2U2OGMwIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvRm9ydGFsZXphIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOk5tRmpPV0ppTW1RdFkyWTFPUzAwTkRFekxUa3daREl0TVRnNE5XTmpNMlUyT0dNdyIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2NzQzMTY5ODMsImlhdCI6MTY3NDIzMDU4MywianRpIjoiNDVkNTRiZmMtYTdjOS00NDhiLWFiZGYtNmJmN2NlZDBlODdlIn0.Vy6N2VQP3exf_j7fUxzlazKwQMB5XwA53XQaGd5pFEM
